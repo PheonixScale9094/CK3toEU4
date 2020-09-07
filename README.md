@@ -14,5 +14,3 @@ To help with development, please visit the official [development thread](https:/
 ---
 
 The latest development release of the Windows version is available [here](https://github.com/ParadoxGameConverters/CK3ToEU4/releases/tag/windows_development_build).
-
-Travis Test
